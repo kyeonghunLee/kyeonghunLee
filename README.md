@@ -43,11 +43,17 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeonghunLee)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonghunLee)](https://github.com/anuraghazra/github-readme-stats)
-  
+ ## 📈 My GitHub Journey
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kyeonghunLee&show_icons=true&theme=gruvbox" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonghunLee&layout=compact&theme=gruvbox" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kyeonghunLee&theme=gruvbox" />
+</p>
+
 </div>
 
 <!--
