@@ -8,10 +8,11 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+## 🙋‍♂️ About Me
+
+안녕하세요!  
+배움을 통한 성장에 희열을 느끼는 개발자 **이경훈**입니다. 🌱  
+천천히, 그리고 꾸준히 앞으로 나아가며 **성장하는 개발자**가 되고 싶습니다. 🚀
   <br/>
   <br/>
   
